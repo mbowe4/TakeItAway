@@ -1,0 +1,26 @@
+[
+  {
+    "type": "Havarti",
+    "price": 0.80
+  },
+  {
+    "type": "Swiss",
+    "price": 0.80
+  },
+  {
+    "type": "Edam",
+    "price": 0.80
+  },
+  {
+    "type": "Cheddar",
+    "price": 0.80
+  },
+  {
+    "type": "Provolone",
+    "price": 0.80
+  },
+  {
+    "type": "Asiago",
+    "price": 0.80
+  }
+]

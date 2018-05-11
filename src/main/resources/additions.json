@@ -1,0 +1,18 @@
+[
+  {
+    "type": "Sprouts",
+    "price": 0.35
+  },
+  {
+    "type": "Cucumbers",
+    "price": 0.35
+  },
+  {
+    "type": "Arugula",
+    "price": 0.35
+  },
+  {
+    "type": "Roasted Tomatoes",
+    "price": 0.60
+  }
+]
